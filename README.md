@@ -2,7 +2,7 @@
 👋 Hi there! I'm Duc Minh or David, a sophomore at Foreign Trade University (FTU HN), Vietnam, pursuing a Bachelor's in Digital Business. Welcome to my GitHub!
 
 ## About Me
-🚀 Enthusiastic about Data Modelling and Data Analysis, I focus on programming in Python and SQL. My passion extends to Statistical Analysis using Python, managing databases with PhpMyAdmin, and crafting insightful data visualizations with Power BI.
+🚀 Enthusiastic about Data Modelling and Data Analysis, I focus on programming in Python and SQL. My passion extends to crafting insightful data visualizations with Power BI, Statistical Analysis using Python, and managing databases with PhpMyAdmin.
 
 ## Skills
 🖥️ Proficient in Excel, Python, SQL.
