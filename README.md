@@ -2,14 +2,14 @@
 👋 Hi there! I'm Duc Minh or David, a sophomore at Foreign Trade University (FTU HN), Vietnam, pursuing a Bachelor's in Digital Business. Welcome to my GitHub!
 
 ## About Me
-🚀 Enthusiastic about Data Modelling and Data Analysis, I focus on programming in Python and SQL. My passion extends to crafting insightful data visualizations with Power BI, Statistical Analysis using Python, and managing databases with PhpMyAdmin.
+🚀 Enthusiastic about Data Modelling and Data Analysis, I focus on programming in Python and SQL. My passion extends to crafting insightful data visualizations with Power BI, Statistical Analysis & Constructing Machin Learning Models using Python and RapidMiner.
 
 ## Skills
-🖥️ Proficient in Excel, Python, SQL.
+🖥️ Competent in Excel, Python, SQL, Power BI
 
-💽 Experienced in POWER BI, PhpMyAdmin.
+💽 Experienced with PhpMyAdmin, RapidMiner
 
-🌐 Currently exploring SAC, AWS, and Azure for cloud computing.
+🌐 Currently exploring SAC, AWS, and Azure for cloud computing and engineering
 
 ## Current Focus
 📚 Dedicated to advancing skills in Data Warehouse and Exploratory Data Analysis for insights, staying updated on the latest technologies.
