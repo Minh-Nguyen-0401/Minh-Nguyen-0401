@@ -5,7 +5,7 @@
 🚀 Enthusiastic about Data Modelling and Data Analysis, I focus on programming in Python and SQL. My passion extends to crafting insightful data visualizations with Power BI, Statistical Analysis & Constructing Machin Learning Models using Python and RapidMiner.
 
 ## Skills
-🖥️ Competent in `Excel`, `Python`, `SQL`, `Power BI`
+🖥️ Competent in `Google Sheet`/`Excel`, `Python`, `SQL`, `Power BI`
 
 💽 Experienced with `PhpMyAdmin`, `RapidMiner`
 
