@@ -9,7 +9,7 @@
 
 💽 Experienced with `PhpMyAdmin`, `RapidMiner`
 
-🌐 Currently exploring genAI, specifically NLP and LLMs.
+🌐 Currently exploring `genAI`, specifically `NLP` and `LLMs`.
 
 ## Current Focus
 📚 Dedicated to advancing skills in Data Analysis and Analytic Model Construction for actionable insights, staying updated on the latest technologies.
